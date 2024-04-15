@@ -1,0 +1,57 @@
+.navbar{
+  background-color: #f7f3f3; 
+  justify-content: right;
+  padding: 0px 0px;
+  font-size: 20px;
+  
+}
+
+.menu{
+list-style: none;
+display: flex;
+align-items: right;
+}
+
+.menu li{
+  margin-right: 20px;
+  align-items: right;
+  
+}
+
+.navegacion{
+text-decoration: none;
+color: rgb(8, 8,8);
+}
+
+.portada{
+  background-color: orange;
+  text-align: center;
+  padding: 25px 20px;
+  font-family: "Protest Strike", sans-serif;
+}
+.descripcion{
+  color: black;
+  font-size: 40px;
+}
+.logo{
+  width: 600px;
+}
+
+.footer{
+  background: rgb(255,255,255);
+  justify-content: right;
+  padding: 10px 0px;
+  font-size: 201;
+}
+
+.company{
+  justify-content: center;
+  background-color: rgb(255,255,255);
+}
+.fondo{
+  background-color: orange;
+}
+
+.alimento{
+  width: 250px;
+}
