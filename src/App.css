@@ -50,8 +50,31 @@ color: rgb(8, 8,8);
 }
 .fondo{
   background-color: orange;
+ 
 }
 
-.alimento{
-  width: 250px;
+
+.alimento {
+  background-color: orange;
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+ 
 }
+
+.alimento:hover {
+
+  border: 1px solid #777;
+}
+
+.alimento img {
+  
+  width: 95%;
+  height: auto;
+}
+
+div.desc {
+  
+  padding: 15px;
+  text-align: left;}
