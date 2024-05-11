@@ -10,7 +10,7 @@ const home = () =>{
 <div className="portada">
 <header className= "App-header">
     <img className="logo" src= {Kary}/>
-    <p className="descripcion"> Contamos con excelente calidad y servicio en nuestro productos.</p>
+    <p className="descripcion"> Contamos con excelente calidad y servicio en nuestros productos.</p>
 </header>
 <Footer/>
 

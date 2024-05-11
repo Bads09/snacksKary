@@ -12,7 +12,7 @@ const Layout = () =>{
 </li>
 
 <li>
-    <Link to ={"/pedido"}className="navegacion">pedido</Link>
+    <Link to ={"/pedido"}className="navegacion">mi carrito</Link>
 </li>
 
 </ul>
